@@ -7,6 +7,7 @@
 #### Steam Audio Baked Source
 ![image](https://user-images.githubusercontent.com/25694892/229385128-224818b2-ca86-4c3c-81c6-cd5ed6952d8b.png)
 
+### At the top-level hierarchy
 #### Steam Audio Probes
 ![image](https://user-images.githubusercontent.com/25694892/229385134-2a1e1943-4447-4b89-a2b2-4a1879df5f89.png)
 
